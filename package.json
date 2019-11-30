@@ -1,0 +1,38 @@
+{
+  "name": "@rezanehzati/texttoimg",
+  "version": "1.0.0",
+  "description": "Convert text with font specification to image format",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rezanehzati/textToImg.git"
+  },
+  "keywords": [
+    "text",
+    "signature",
+    "image",
+    "base64",
+    "imagedata",
+    "source",
+    "custom",    
+    "textToCanvas",
+    "textToImage",
+    "googlefonts",        
+    "fonts",
+    "generate",
+    "automatically",
+    "html5",
+    "css3",
+    "css",
+    "javascript"
+  ],
+  "author": "Reza Nehzati info@rezanehzati.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rezanehzati/textToImg/issues"
+  },
+  "homepage": "https://github.com/rezanehzati/textToImg#readme"
+}
