@@ -3,7 +3,7 @@ Convert text with font specification to image format
 
 ![](https://rezanehzati.com/text2img/img/text2img-demo.png)
 
-####How to use　
+How to use　
 
 ```javascript
 var optionsParameter = {
@@ -24,10 +24,9 @@ var optionsParameter = {
     let textSignature =  new TextSignature(optionsParameter);
 ```
 
-####HTML code
+HTML target element
 
 ```html
 <div id="canvasTargetDom" />
 ```
 
-###End
